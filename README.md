@@ -13,3 +13,5 @@ js
 ** Purpose
 
 This project is currently on progress with a goal to store all my web development notes.
+
+https://naughty-wescoff-d9267b.netlify.app
